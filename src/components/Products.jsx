@@ -111,6 +111,7 @@ function Products() {
                   <h4 className="card-title"> {product.label} </h4>
                   <p className="card-text">
                     <button className="btn btn-success">{product.price}</button>
+                    
                   </p>
                 </div>
               </Product>
